@@ -3,3 +3,6 @@ These is the first line of my text, THE FIRST COMMIT of all my repository
 These is the second line to my text, that was the second commit.
 
 These is the third line to my text, MY FIRST COMMIT OF THIS BRANCH
+
+
+Now, I made a remote repository and upload this file, this is the first change after to do
