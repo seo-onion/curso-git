@@ -1,1 +1,1 @@
-print("Saludo en español")
+print("Luquitas")
