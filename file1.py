@@ -1,1 +1,4 @@
-print("Luquitas")
+saludo = "Hola mundo"
+
+print(saludo)
+
